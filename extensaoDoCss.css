@@ -1,0 +1,5 @@
+#esquerda {width: 50%;}
+#meio {width: 35%; }
+#direita {width: 15%;}
+#linha {text-decoration: line-through}
+table{letter-spacing: 20px; transform: skewY(5deg);transform-origin: 10% 100%;rotate: 30deg;}
